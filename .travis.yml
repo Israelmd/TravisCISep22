@@ -10,6 +10,7 @@ branches:
 #script:
 #  - dotnet build
 #  - dotnet test
+#  - concambio
 before_script:
   - chmod -R a+x scripts
 script:
